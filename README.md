@@ -1,4 +1,4 @@
-![MasterHead]("https://i.ibb.co/ZNJYjPJ/White-Minimalist-Profile-Linked-In-Banner-2.png" )
+![MasterHead](https://i.ibb.co/ZNJYjPJ/White-Minimalist-Profile-Linked-In-Banner-2.png)
 <h1 align="center">Hi 👋, I'm Harshit Kowsik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
