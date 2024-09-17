@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **future projects**
 
-- 👨‍💻 All of my projects are available at [https://myjourneywithlabs.vercel.app](https://myjourneywithlabs.vercel.app)
+- 👨‍💻 All of my projects are available at [https://harshitkowsik.vercel.app](https://harshitkowsik.vercel.app)
 
 - 📫 How to reach me **harshitkowsik@gmail.com**
 
